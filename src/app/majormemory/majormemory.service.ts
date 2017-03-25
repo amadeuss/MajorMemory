@@ -10,7 +10,7 @@ import 'rxjs/add/operator/catch';
 
 @Injectable()
 export class MajorMemoryService {
-    private _numberUrl = 'api/majormemorynumbers/majormemorynumbers.json';
+    private _numberUrl = 'assets/api/majormemorynumbers/majormemorynumbers.json';
 
     constructor(private _http: Http) {}
 
