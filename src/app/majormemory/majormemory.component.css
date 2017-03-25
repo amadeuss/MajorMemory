@@ -1,0 +1,47 @@
+.number-circle {
+    border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+
+    width: 90px;
+    height: 90px;
+    padding: 8px;
+
+    background: #fff;
+    border: 5px solid #666;
+    color: #666;
+    text-align: center;
+
+    font: 56px Arial, sans-serif;
+}
+
+.div-center {
+    margin: 0 auto;
+}
+
+.table thead th {
+    font-weight: bold;
+    background-color: #070;
+    color: #fff;
+}
+
+.table tbody th {
+    font-weight: bold;
+    background-color: #000;
+    color: #fff;
+}
+
+.table tr {
+    background-color: #ffc;
+}
+
+.glyphicon-lg {
+  padding: 1px 5px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+}
+
+.image-answer {
+    max-width: 200px;
+    max-height: 200px;
+}

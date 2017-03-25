@@ -1,0 +1,90 @@
+<div class="panel panel-primary">
+    <div class="panel-heading text-center">
+        {{pageTitle}}
+    </div>
+    <div class="panel-body"  >
+        <div class="row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8">
+                <button type="button" class="btn btn-info btn-large" (click)='toggleMnemonics()'>
+                    <i class="glyphicon glyphicon-lg glyphicon-question-sign"></i>
+                    <strong *ngIf='!showMnemonics'>Show Mnemonics</strong>
+                    <strong *ngIf='showMnemonics'>Hide Mnemonics</strong>
+                </button>
+            </div>
+            <div class="col-sm-2"></div>
+        </div>
+        <div class="row" *ngIf='showMnemonics'>
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8">
+                <table class="table">
+                    <thead class="thead-inverse">
+                        <tr>
+                            <th colspan="2">The Consonant System Mnemonic</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th>1=</th>
+                            <td>T (also TH) or D (single downstroke)</td>
+                        </tr>
+                        <tr>
+                            <th>2=</th>
+                            <td>N (two downstrokes)</td>
+                        </tr>
+                        <tr>
+                            <th>3=</th>
+                            <td>M (3 downstrokes)</td>
+                        </tr>
+                        <tr>
+                            <th>4=</th>
+                            <td>R (the last letter of four is r)</td>
+                        </tr>
+                        <tr>
+                            <th>5=</th>
+                            <td>L (you have five fingers on your left hand; make an L with your index finger and thumb)</td>
+                        </tr>
+                        <tr>
+                            <th>6=</th>
+                            <td>J, CH, soft G, SH (J is a near mirror image of 6)(e.g.,Jelly, CHips, garaGe, SHoe)</td>
+                        </tr>
+                        <tr>
+                            <th>7=</th>
+                            <td>K, hard G, hard C (7 side-by-side with a mirror image form a sideways K) (e.g., Kite, Goat, Cat)</td>
+                        </tr>
+                        <tr>
+                            <th>8=</th>
+                            <td>F, V, PH (8 is similar to the lowercase cursive f) (e.g., Flame, Vest, graPH)</td>
+                        </tr>
+                        <tr>
+                            <th>9=</th>
+                            <td>P or B (9 is a mirror image of P)</td>
+                        </tr>
+                        <tr>
+                            <th>0=</th>
+                            <td>Z, S, soft C (0 or zero) (e.g., Zipper, Scare, iCe)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-sm-2"></div>
+        </div>
+
+        <div class="row" *ngIf='currentNumber'>
+            <div class="number-circle div-center">{{currentNumber}}</div>
+        </div>
+        <div class="row">&nbsp;</div>
+        <div class="row" *ngIf='currentNumber'>
+            <div class="text-center">
+                <div class="btn-group btn-group-lg" role="group">
+                    <button type="button" class="btn btn-info btn-large" (click)='getRandomNumber()'>New Number</button>
+                    <button type="button" class="btn btn-success btn-large" (click)='getAnswer()'>Show Answer</button>
+                </div>
+            </div>
+        </div>
+        <div class="row">&nbsp;</div>
+        <div class="row" *ngIf='answer'>
+            <div class="text-center"><h1>{{answer.memoryName}}</h1><br /><img class="image-answer" [src]='answer.imageUrl' /><br /><h1>{{answer.memoryNameSplit}}</h1></div>
+        </div>
+    </div>
+</div>

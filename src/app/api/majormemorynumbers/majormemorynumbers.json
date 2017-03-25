@@ -1,0 +1,302 @@
+[
+    {
+        "memoryNumber": "00",
+        "memoryName": "Suzanne",
+        "memoryNameSplit": "SuZanne",
+        "imageUrl": "app/assets/images/00.jpg"
+    },
+    {
+        "memoryNumber": "01",
+        "memoryName": "Seed",
+        "memoryNameSplit": "SeeD",
+        "imageUrl": "app/assets/images/01.jpg"
+    },
+    {
+        "memoryNumber": "02",
+        "memoryName": "Sun",
+        "memoryNameSplit": "SuN",
+        "imageUrl": "assets/images/sun-147426_640.png"
+    },
+    {
+        "memoryNumber": "03",
+        "memoryName": "Sam",
+        "memoryNameSplit": "SaM",
+        "imageUrl": "app/assets/images/03.jpg"
+    },
+    {
+        "memoryNumber": "04",
+        "memoryName": "Zero",
+        "memoryNameSplit": "ZeRo",
+        "imageUrl": "app/assets/images/04.jpg"
+    },
+    {
+        "memoryNumber": "05",
+        "memoryName": "Seal",
+        "memoryNameSplit": "SeaL",
+        "imageUrl": "app/assets/images/05.jpg"
+    },
+    {
+        "memoryNumber": "06",
+        "memoryName": "Sash",
+        "memoryNameSplit": "SaSH",
+        "imageUrl": "app/assets/images/06.gif"
+    },
+    {
+        "memoryNumber": "07",
+        "memoryName": "Sack",
+        "memoryNameSplit": "SaCK",
+        "imageUrl": "app/assets/images/07.jpg"
+    },
+    {
+        "memoryNumber": "08",
+        "memoryName": "Sofa",
+        "memoryNameSplit": "SoFa",
+        "imageUrl": "app/assets/images/08.jpg"
+    },
+    {
+        "memoryNumber": "09",
+        "memoryName": "Sap",
+        "memoryNameSplit": "SaP",
+        "imageUrl": "app/assets/images/09.jpg"
+    },
+    {
+        "memoryNumber": "10",
+        "memoryName": "Toes",
+        "memoryNameSplit": "ToeS",
+        "imageUrl": "app/assets/images/10.jpg"
+    },
+    {
+        "memoryNumber": "11",
+        "memoryName": "Tit",
+        "memoryNameSplit": "TiT",
+        "imageUrl": "app/assets/images/11.jpg"
+    },
+    {
+        "memoryNumber": "12",
+        "memoryName": "Tin",
+        "memoryNameSplit": "TiN",
+        "imageUrl": "app/assets/images/12.jpg"
+    },
+    {
+        "memoryNumber": "13",
+        "memoryName": "Tim",
+        "memoryNameSplit": "TiM",
+        "imageUrl": "app/assets/images/13.jpg"
+    },
+    {
+        "memoryNumber": "14",
+        "memoryName": "Deer",
+        "memoryNameSplit": "DeeR",
+        "imageUrl": "app/assets/images/14.jpg"
+    },
+    {
+        "memoryNumber": "15",
+        "memoryName": "Tail",
+        "memoryNameSplit": "TaiL",
+        "imageUrl": "app/assets/images/15.jpg"
+    },
+    {
+        "memoryNumber": "16",
+        "memoryName": "Dish",
+        "memoryNameSplit": "DiSH",
+        "imageUrl": "app/assets/images/16.jpg"
+    },
+    {
+        "memoryNumber": "17",
+        "memoryName": "Duck",
+        "memoryNameSplit": "DuCK",
+        "imageUrl": "app/assets/images/17.jpg"
+    },
+    {
+        "memoryNumber": "18",
+        "memoryName": "TV",
+        "memoryNameSplit": "TV",
+        "imageUrl": "app/assets/images/18.jpg"
+    },
+    {
+        "memoryNumber": "19",
+        "memoryName": "Tuba",
+        "memoryNameSplit": "TuBa",
+        "imageUrl": "app/assets/images/19.jpg"
+    },
+    {
+        "memoryNumber": "20",
+        "memoryName": "Nose",
+        "memoryNameSplit": "NoSe",
+        "imageUrl": "app/assets/images/20.jpg"
+    },
+    {
+        "memoryNumber": "21",
+        "memoryName": "Net",
+        "memoryNameSplit": "NeT",
+        "imageUrl": "app/assets/images/21.jpg"
+    },
+    {
+        "memoryNumber": "22",
+        "memoryName": "Nun",
+        "memoryNameSplit": "NuN",
+        "imageUrl": "app/assets/images/22.jpg"
+    },
+    {
+        "memoryNumber": "23",
+        "memoryName": "Nemo",
+        "memoryNameSplit": "NeMo",
+        "imageUrl": "app/assets/images/23.jpg"
+    },
+    {
+        "memoryNumber": "24",
+        "memoryName": "Nero",
+        "memoryNameSplit": "NeRo",
+        "imageUrl": "app/assets/images/24.jpg"
+    },
+    {
+        "memoryNumber": "25",
+        "memoryName": "Nail",
+        "memoryNameSplit": "NaiL",
+        "imageUrl": "app/assets/images/25.jpg"
+    },
+    {
+        "memoryNumber": "26",
+        "memoryName": "Engine",
+        "memoryNameSplit": "eNGine",
+        "imageUrl": "app/assets/images/26.jpg"
+    },
+    {
+        "memoryNumber": "27",
+        "memoryName": "Nike",
+        "memoryNameSplit": "NiKe",
+        "imageUrl": "app/assets/images/27.jpg"
+    },
+    {
+        "memoryNumber": "28",
+        "memoryName": "Knife",
+        "memoryNameSplit": "kNiFe",
+        "imageUrl": "app/assets/images/28.jpg"
+    },
+    {
+        "memoryNumber": "29",
+        "memoryName": "Knob",
+        "memoryNameSplit": "kNoB",
+        "imageUrl": "app/assets/images/29.jpg"
+    },
+    {
+        "memoryNumber": "30",
+        "memoryName": "Mouse",
+        "memoryNameSplit": "MouSe",
+        "imageUrl": "app/assets/images/30.jpg"
+    },
+    {
+        "memoryNumber": "31",
+        "memoryName": "Moat",
+        "memoryNameSplit": "MoaT",
+        "imageUrl": "app/assets/images/31.jpg"
+    },
+    {
+        "memoryNumber": "32",
+        "memoryName": "Moon",
+        "memoryNameSplit": "MooN",
+        "imageUrl": "app/assets/images/32.jpg"
+    },
+    {
+        "memoryNumber": "33",
+        "memoryName": "M&Ms",
+        "memoryNameSplit": "M&Ms",
+        "imageUrl": "app/assets/images/33.jpg"
+    },
+    {
+        "memoryNumber": "34",
+        "memoryName": "Mario",
+        "memoryNameSplit": "MaRio",
+        "imageUrl": "app/assets/images/34.jpg"
+    },
+    {
+        "memoryNumber": "35",
+        "memoryName": "Mail",
+        "memoryNameSplit": "MaiL",
+        "imageUrl": "app/assets/images/35.jpg"
+    },
+    {
+        "memoryNumber": "36",
+        "memoryName": "M*A*S*H*",
+        "memoryNameSplit": "MASH",
+        "imageUrl": "app/assets/images/36.jpg"
+    },
+    {
+        "memoryNumber": "37",
+        "memoryName": "Mic",
+        "memoryNameSplit": "MiC",
+        "imageUrl": "app/assets/images/37.jpg"
+    },
+    {
+        "memoryNumber": "38",
+        "memoryName": "Muff",
+        "memoryNameSplit": "MuFf",
+        "imageUrl": "app/assets/images/38.jpg"
+    },
+    {
+        "memoryNumber": "39",
+        "memoryName": "Map",
+        "memoryNameSplit": "MaP",
+        "imageUrl": "app/assets/images/39.jpg"
+    },
+    {
+        "memoryNumber": "40",
+        "memoryName": "Rose",
+        "memoryNameSplit": "RoSe",
+        "imageUrl": "app/assets/images/40.jpg"
+    },
+    {
+        "memoryNumber": "41",
+        "memoryName": "Rat",
+        "memoryNameSplit": "RaT",
+        "imageUrl": "app/assets/images/41.jpg"
+    },
+    {
+        "memoryNumber": "42",
+        "memoryName": "Rain",
+        "memoryNameSplit": "RaiN",
+        "imageUrl": "app/assets/images/42.jpg"
+    },
+    {
+        "memoryNumber": "43",
+        "memoryName": "Ram",
+        "memoryNameSplit": "RaM",
+        "imageUrl": "app/assets/images/43.jpg"
+    },
+    {
+        "memoryNumber": "44",
+        "memoryName": "Roar",
+        "memoryNameSplit": "RoaR",
+        "imageUrl": "app/assets/images/44.jpg"
+    },
+    {
+        "memoryNumber": "45",
+        "memoryName": "Rail",
+        "memoryNameSplit": "RaiL",
+        "imageUrl": "app/assets/images/45.jpg"
+    },
+    {
+        "memoryNumber": "46",
+        "memoryName": "Rash",
+        "memoryNameSplit": "RaSH",
+        "imageUrl": "app/assets/images/46.jpg"
+    },
+    {
+        "memoryNumber": "47",
+        "memoryName": "Rock",
+        "memoryNameSplit": "RoCK",
+        "imageUrl": "app/assets/images/47.jpg"
+    },
+    {
+        "memoryNumber": "48",
+        "memoryName": "Roof",
+        "memoryNameSplit": "RooF",
+        "imageUrl": "app/assets/images/48.jpg"
+    },
+    {
+        "memoryNumber": "49",
+        "memoryName": "Rope",
+        "memoryNameSplit": "RoPe",
+        "imageUrl": "app/assets/images/49.jpg"
+    }    
+]
